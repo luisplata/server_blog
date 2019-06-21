@@ -1,0 +1,4 @@
+/node_modules
+env.variables.json
+/logs
+package-lock.json
